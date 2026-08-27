@@ -73,11 +73,12 @@ I enjoy combining networking knowledge with software development to build practi
 ```text
 🌐 Advanced Networking
 🏢 Enterprise Network Infrastructure
+🔐 VPN Configuration
+📶 Wireless Security
+🔒 WPA2, WPA3 & 802.1X
+🛡️ Secure Remote Access
 💻 Front-End Development
 🤖 Artificial Intelligence
-📊 Data Science
-🧠 Machine Learning
-🗄️ Database Systems
 ```
 
 ---

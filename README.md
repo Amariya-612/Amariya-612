@@ -126,7 +126,7 @@ I enjoy combining networking knowledge with software development to build practi
   <a href="mailto:amariyatesfaw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/amariya-tesfaw">
+  <a href="https://www.linkedin.com/in/amariya-tesfaw">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

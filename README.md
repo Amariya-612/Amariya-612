@@ -68,139 +68,6 @@ I enjoy combining networking knowledge with software development to build practi
 </p>
 
 ---
-
-## 🌐 Networking
-
-My networking experience includes practical configuration and troubleshooting of network environments.
-
-### Areas of Interest
-
-* 🔀 Routing & Switching
-* 🏷️ VLAN Configuration
-* 🌳 Spanning Tree Protocol
-* 📡 OSPF & EIGRP
-* 🌍 IPv4 & IPv6
-* 📦 DHCP & DNS
-* 🔐 VPN Configuration
-* 📶 Wireless Security
-* 🔒 WPA2, WPA3 & 802.1X
-* 🛡️ Secure Remote Access
-* 🔧 Network Troubleshooting
-* 🏢 Enterprise Network Infrastructure
-
-### Practical Experience
-
-* Designed, implemented, and maintained **5+ LAN/WAN systems and network protocols**
-* Configured **12 basic network setups** using Cisco Packet Tracer
-* Practiced IP addressing, routing, and switching
-* Troubleshot network connectivity using networking tools and diagnostic commands
-
----
-
-## 💻 Web Development
-
-I have developed responsive and user-friendly web interfaces using modern front-end technologies.
-
-### Technologies
-
-```text
-HTML
-CSS
-JavaScript
-PHP
-Responsive Design
-UI/UX Principles
-Cross-Browser Compatibility
-```
-
-### Experience
-
-* Designed and developed **2+ responsive websites and web pages**
-* Built front-end projects with interactive features
-* Created website layouts and navigation systems
-* Focused on responsive and user-friendly interfaces
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 Small Office Network
-
-A practical networking project focused on designing and configuring a small-office network environment.
-
-**Technologies:**
-
-* Cisco Packet Tracer
-* VLAN
-* IP Addressing
-* Routing & Switching
-* DHCP
-* Network Troubleshooting
-
----
-
-### 🏥 Clinical Website
-
-A responsive web project focused on creating a user-friendly clinical website interface.
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-* Responsive Design
-* UI/UX
-
----
-
-### 💻 Front-End Projects
-
-A collection of front-end development projects demonstrating practical knowledge of web layouts, navigation, responsive design, and interactive features.
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-* PHP
-
----
-
-## 🎓 Education
-
-### Hawassa University
-
-**B.Sc. Information Systems**
-
-📅 2023 — Present
-📊 CGPA: **3.09 / 4.0**
-
-### Relevant Coursework
-
-* Data Communication & Computer Networks
-* System & Network Administration
-* Operating Systems
-* Computer Organization & Architecture
-* Database Systems
-* Advanced Database Systems
-* Artificial Intelligence
-* Internet Programming
-* Advanced Internet Programming
-* Data Mining & Machine Learning
-* Data Science & Business Intelligence
-
----
-
-## 📜 Certifications
-
-| Certification            | Organization             | Date     |
-| ------------------------ | ------------------------ | -------- |
-| 🌐 Networking Basics     | Cisco Networking Academy | Nov 2025 |
-| 🔷 HCIA-Datacom          | Huawei ICT Academy       | Feb 2026 |
-| 💻 Front-End Development | Gebeya                   | Sep 2025 |
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -236,11 +103,11 @@ A collection of front-end development projects demonstrating practical knowledge
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amariya-612&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amariya-612&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -248,7 +115,7 @@ A collection of front-end development projects demonstrating practical knowledge
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amariya-612&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---

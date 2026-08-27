@@ -1,23 +1,38 @@
-# 👋 Hi, I'm Amariya Tesfaw
+#  `✨Hi, I'm Amariya Tesfaw`
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="[C:\Users\cisco\Documents\aman_pro\portifolio]" alt="Your Name" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td width="70%">
+      <h3>Hey there, I'm Your Name! 👋</h3>
+      <p>I'm an Information Systems student at Hawassa University focusing on network engineering and front-end development...</p>
+    </td>
+  </tr>
+</table>
+
 
 ### 🌐 Network Engineering | 💻 Front-End Development | 🎓 Information Systems Student
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/amariya-tesfaw">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/amariya-tesfaw/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
+  </a>
+  <a href="https://www.instagram.com/amariya_612/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" />
+  </a>
+  <a href="https://t.me/Amariya2" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="45" />
   </a>
   <a href="mailto:amariyatesfaw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="45" />
   </a>
+
 </p>
-
----
-
 ## 👨‍💻 About Me
 
-I'm an **Information Systems student at Hawassa University** with a strong interest in **network engineering, enterprise networking, and front-end web development**.
+I'm an Information Systems student at Hawassa University with a strong interest in networking and web development. 
 
-I enjoy combining networking knowledge with software development to build practical and user-focused technology solutions.
+I enjoy learning by building practical projects, from configuring networks in Cisco Packet Tracer to creating responsive websites.
 
 * 🎓 B.Sc. Information Systems — **Hawassa University**
 * 🌐 Focused on **Network Engineering & Infrastructure**

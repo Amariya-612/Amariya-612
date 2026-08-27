@@ -1,12 +1,10 @@
-#  `✨Hi, I'm Amariya Tesfaw`
-
 <table>
   <tr>
-    <td width="30%">
-      <img src="[C:\Users\cisco\Documents\aman_pro\portifolio]" alt="Your Name" width="100%" style="border-radius: 10px;" />
+    <td width="15%">
+  <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />
     </td>
     <td width="70%">
-      <h3>Hey there, I'm Your Name! 👋</h3>
+       `<h1>✨Hi, I'm Amariya Tesfaw</h1>`
       <p>I'm an Information Systems student at Hawassa University focusing on network engineering and front-end development...</p>
     </td>
   </tr>
@@ -14,6 +12,7 @@
 
 
 ### 🌐 Network Engineering | 💻 Front-End Development | 🎓 Information Systems Student
+ <p align="center">
   <a href="https://www.linkedin.com/in/amariya-tesfaw/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
   </a>
@@ -25,12 +24,9 @@
   </a>
   <a href="mailto:amariyatesfaw@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="45" />
-  </a>
+  </a></p>
 
-</p>
-## 👨‍💻 About Me
-
-I'm an Information Systems student at Hawassa University with a strong interest in networking and web development. 
+### 👨‍💻 About Me
 
 I enjoy learning by building practical projects, from configuring networks in Cisco Packet Tracer to creating responsive websites.
 
@@ -39,7 +35,7 @@ I enjoy learning by building practical projects, from configuring networks in Ci
 * 💻 Interested in **Front-End Web Development**
 * 🔧 Hands-on experience with **Cisco Packet Tracer**
 * 🏢 Interested in **enterprise network environments**
-* 📚 Continuously learning networking, web development, AI, data science, and machine learning
+* 📚 Continuously learning networking, web development and AI
 * 🤝 Strong communication, presentation, teamwork, and time-management skills
 
 ---
@@ -115,35 +111,32 @@ I enjoy learning by building practical projects, from configuring networks in Ci
 * 🇬🇧 **English** — B2
 
 ---
-
 ## 📊 GitHub Statistics
 
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amariya-612&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amariya-612&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amariya-612&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amariya-612&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amariya-612&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>-->
 
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amariya-612&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:amariyatesfaw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+### 📫 Let's Connect
+  <a href="https://www.linkedin.com/in/amariya-tesfaw/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
   </a>
-  <a href="https://www.linkedin.com/in/amariya-tesfaw">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/amariya_612/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" />
+  </a>
+  <a href="https://t.me/Amariya2" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="45" />
+  </a>
+  <a href="mailto:amariyatesfaw@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="45" />
   </a>
 </p>
 

@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="15%">
-  <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />
+ <!--   <td width="15%">
+  <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />-->
     </td>
     <td width="70%">
        `<h1>✨Hi, I'm Amariya Tesfaw</h1>`

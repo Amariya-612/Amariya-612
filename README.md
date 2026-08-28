@@ -4,14 +4,8 @@
   <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />-->
     </td>
     <td width="70%">
-       `<h1>✨Hi, I'm Amariya Tesfaw</h1>`
-      <p>I'm an Information Systems student at Hawassa University focusing on network engineering and front-end development...</p>
-    </td>
-  </tr>
-</table>
-
-
-### 🌐 Network Engineering | 💻 Front-End Development | 🎓 Information Systems Student
+       <h1>✨Hi, I'm Amariya Tesfaw</h1>
+ Network Engineering | 💻 Front-End Development | 🎓 Information Systems Student
  <p align="center">
   <a href="https://www.linkedin.com/in/amariya-tesfaw/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
@@ -25,9 +19,12 @@
   <a href="mailto:amariyatesfaw@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="45" />
   </a></p>
+    </td>
+  </tr>
+</table>
 
 ### 👨‍💻 About Me
-
+I'm an Information Systems student at Hawassa University focusing on network engineering and front-end development...
 I enjoy learning by building practical projects, from configuring networks in Cisco Packet Tracer to creating responsive websites.
 
 * 🎓 B.Sc. Information Systems — **Hawassa University**

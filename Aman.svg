@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"></stop>
+      <stop offset="100%" stop-color="#7c4dff"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <clipPath id="roleClip">
+      <rect x="150" y="125" width="700" height="65"></rect>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="220" rx="30" fill="#0d1117"></rect>
+
+  <!-- Neon Border -->
+  <rect x="4" y="4" width="992" height="212" rx="26" fill="none" stroke="url(#gradient)" stroke-width="3" filter="url(#glow)"></rect>
+
+  <!-- Name -->
+  <text x="500" y="95" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="url(#gradient)" filter="url(#glow)">
+    I'm Amariya Tesfaw
+  </text>
+
+  <!-- Animated Roles -->
+  <g clip-path="url(#roleClip)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600" fill="#67e8f9" filter="url(#glow)">
+
+    <!-- Network Engineer -->
+    <text x="500" y="170">
+      Network Engineer
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -55;0 -55;0 0" keyTimes="0;0.35;0.45;0.85;1" dur="6s" repeatCount="indefinite"></animateTransform>
+    </text>
+
+    <!-- Vibe_Coder -->
+    <text x="500" y="225">
+      Vibe_Coder
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -55;0 -55;0 0" keyTimes="0;0.35;0.45;0.85;1" dur="6s" repeatCount="indefinite"></animateTransform>
+    </text>
+
+  </g>
+
+  <!-- Animated Neon Particle -->
+  <circle r="5" fill="#00e5ff" filter="url(#glow)">
+    <animate attributeName="cx" values="80;920;80" dur="5s" repeatCount="indefinite"></animate>
+
+    <animate attributeName="cy" values="180;40;180" dur="5s" repeatCount="indefinite"></animate>
+  </circle>
+
+</svg>

@@ -4,11 +4,8 @@
   <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />-->
     </td>
     <td width="70%">
-       <h1><center>✨Hi, I'm Amariya Tesfaw</center></h1>
-      <div align="center">
-
 <img
-  src="./skill.svg"
+  src="./Aman.svg"
   width="900"
   alt="Network Engineering | Front-End Development | Information Systems Student"
 />

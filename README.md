@@ -8,7 +8,7 @@
       <div align="center">
 
 <img
-  src="./skills.svg"
+  src="./skill.svg"
   width="900"
   alt="Network Engineering | Front-End Development | Information Systems Student"
 />

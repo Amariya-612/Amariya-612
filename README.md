@@ -4,8 +4,16 @@
   <img src="https://github.com/Amariya-612/portfolio/blob/main/pop.png?raw=true" alt="Amariya Tesfaw" width="220" style="border-radius: 12px;" />-->
     </td>
     <td width="70%">
-       <h1>✨Hi, I'm Amariya Tesfaw</h1>
- Network Engineering | 💻 Front-End Development | 🎓 Information Systems Student
+       <h1><center>✨Hi, I'm Amariya Tesfaw</center></h1>
+      <div align="center">
+
+<img
+  src="./skills.svg"
+  width="900"
+  alt="Network Engineering | Front-End Development | Information Systems Student"
+/>
+
+</div>
  <p align="center">
   <a href="https://www.linkedin.com/in/amariya-tesfaw/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
